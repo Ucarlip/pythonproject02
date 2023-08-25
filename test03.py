@@ -22,4 +22,4 @@ print('คุณปีดเกิด {} อายุ {}'.format(stdYearBorn,std
 print('-------------------')
 print("ยินดีต้อนรับ %s ชื่อ %s" %(std_id,std_name))
 print('คุณปีดเกิด %s อายุ %d' %(stdYearBorn,stdAge))
-
+#------------#
