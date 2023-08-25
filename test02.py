@@ -6,6 +6,6 @@ print("Hello..."+str(456)+'Hi...'+str(True)+' '+str(20+10)+"Hey....")
 print('Hello{}Hi...{} {} Hay...'.format(456,True,10+20))
 print('Hello{0}Hi...{1} {2} Hay...'.format(456,True,10+20)) #index number ตำเเหน่งข้อมูลในปีกกา
 #4. ใช้ f-string
-print(f"hello...{465} Hi... {True} {120+34} Hey...")
+print(f"hello...{465} Hi... {True} {10+20} Hey...")
 #5. ใข้ modular operator (%)-> %d, %f, %c, %s,....
 print('Hello... %d Hi... %s %d Hay...' %(456,True,10+20) )
